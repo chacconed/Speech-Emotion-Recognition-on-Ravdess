@@ -1,7 +1,7 @@
 # ML-312-Project
 # Speech emotion detection using the RAVDESS dataset          
 
-The weights saved which gave us an average accuracu of 79% is added and named 312weight.h5.                 
+The weights saved which gave us an average accuracy of 79% is added and named 312weight.h5.                 
 To run the model with pre trained weights you can load it in your file.           
   
 # load weights and test
