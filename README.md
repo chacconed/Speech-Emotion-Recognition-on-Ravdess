@@ -4,7 +4,7 @@
 The weights saved which gave us an average accuracu of 79% is added and named 312weight.h5.                 
 To run the model with pre trained weights you can load it in your file.           
   
-# load wights and test
+# load weights and test
 If you wish to test it with our data, locate and load the xtest.csv and ytest.csv files.
 Next, use the following code to reshape the data so that the model can evaluate it.
 
