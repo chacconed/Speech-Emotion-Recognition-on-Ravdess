@@ -18,11 +18,13 @@ this changes our test set shape to
 from                    
 (1839, 168), (1839, 8))             
 
+# see our model accuracy/loss graphs
+locate the accuracies.png and the losses.png graphs to see our model performance.
 
 If you wish to run our model you can use our ipnyb file. If our random seed is required use the xtrain.csv and xtest.csv files.             
 
-That is all!            
-
+That is all!       
+Oh, and Homage to Shivam Burwal for his architechture and data augmentation techniques.
 Goodluck! Happy coding.             
 
 
